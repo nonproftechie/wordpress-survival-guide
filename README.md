@@ -25,5 +25,5 @@ TBD
 ### Hosting
 - Recommended for low budgets: [Bluehost](https://www.bluehost.com/) (Shared hosting, starting at $3.95/month)
 - Recommended for cloud: [DigitalOcean](https://digitalocean.com) (Cloud VPS hosting with SSD and root access, starting at $10/month)
-- Recommended for tech illiterate: [Wordpress.com](https://wordpress.com) (Freemium managed hosting)
+- Recommended for tech illiterate DIY customers: [Wordpress.com](https://wordpress.com) (Freemium managed hosting)
 - Recommended for agencies: [Flywheel](https://getflywheel.com) (Managed hosting, starting at $15/month)
