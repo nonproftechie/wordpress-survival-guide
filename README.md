@@ -18,6 +18,9 @@ TBD
 - [Local by Flywheel for Windows](https://local-by-flywheel-flywheel.netdna-ssl.com/latest/windows) (Free, easiest to use)
 - [Local by Flywheel for Mac](https://local-by-flywheel-flywheel.netdna-ssl.com/latest/mac) (Free, easiest to use)
 
+### Great Plugins
+- [Disable Comments](https://wordpress.org/plugins/disable-comments/)
+
 ### Great Themes
 - [Twenty Seventeen](https://codex.wordpress.org/Twenty_Seventeen) (free, built-in to current versions of WordPress)
 - [Enfold](https://themeforest.net/item/enfold-responsive-multipurpose-theme/4519990) ($76/yr)
